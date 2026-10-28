@@ -10,6 +10,8 @@ This repository holds the releases. Ank checks it for updates once a day and ask
 
 1. Download the latest `.dmg` from [Releases](https://github.com/VGXDigital/ank-releases/releases/latest).
 2. Open it and drag Ank to Applications.
-3. Ank is signed but not notarized, so open it once, then go to System Settings > Privacy & Security and click Open Anyway.
+3. Double-click **Set Up Ank.command** in the same window. If macOS blocks it, Control-click it and choose Open. It clears the download flag so Ank opens normally.
+
+Ank is signed but not notarized, so instead of step 3 you can try to open it once, then go to System Settings > Privacy & Security and click Open Anyway.
 
 Ank needs macOS 14 or later. Next-line suggestions need macOS 26 with Apple Intelligence.
